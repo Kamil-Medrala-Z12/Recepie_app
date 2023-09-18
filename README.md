@@ -15,7 +15,7 @@ Browse recipes: The app displays detailed information about the dishes, includin
 
 
 
-# Instalation
+# Installation
 
 
 
