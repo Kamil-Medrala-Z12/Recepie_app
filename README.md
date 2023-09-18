@@ -13,9 +13,15 @@ Browse recipes: The app displays detailed information about the dishes, includin
 
 ![Zrzut ekranu 2023-09-18 193752](https://github.com/Kamil-Medrala-Z12/recepie_app/assets/42354098/80f7f8fc-084f-4c7d-a1f2-bc52516bf461)
 
-
-
 # Installation
+
+ git clone https://github.com/Kamil-Medrala-Z12/recepie_app
+
+ cd recepie_app
+
+ npm install
+
+ npm start
 
 
 
