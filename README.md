@@ -1,7 +1,7 @@
 # Recepie_app
 
 Description
-The "FoodieApp" application is a tool that allows users to browse and search for various dishes and recipes of culinary art. The application uses the available API, which provides information about dishes and their preparation.
+The "Recepie_app" application is a tool that allows users to browse and search for various dishes and recipes of culinary art. The application uses the available API, which provides information about dishes and their preparation.
 
 Functions
 Food Search: Users can search for dishes by name, ingredients or cuisine type.
